@@ -11,3 +11,6 @@ Notes and slides from Windy City Rails, September 12-13th 2013 in Chicago, IL
 3. [**The City of the Future, Today**](Thursday/3_the_city_of_the_future_today.md) by Ryan Briones
 4. [**Data Science: New Snake Oil, Same Old Machine Learning**](Thursday/4_data_science_new_snake_oil_same_old_machine_learning.md) by [Randall Thomas ()](https://twitter.com/daksis) at Thunderbolt Labs
 5. [**Insecure Expectations**](Thursday/5_insecure_expectations) by [Matt Konda](http://www.twitter.com/mkonda) at Jemurai
+
+##### Afternoon
+6. [**Test Driven Development: A Love Story**](Thursday/6_test_driven_development_a_love_story.md) by [Nell Shamrell (@nellshamrell)](https://twitter.com/nellshamrell) at Blue Box Inc
