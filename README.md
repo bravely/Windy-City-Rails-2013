@@ -26,4 +26,5 @@ Notes and slides from Windy City Rails, September 12-13th 2013 in Chicago, IL
 3. [**Hey Kid! Don't Copy That Floppy!**](Friday/3_hey_kid_don't_copy_that_floppy) by [Aaron Kalin (@martinisoft)](http://www.twitter.com/martinisoft) at Treehouse
 4. [**Lightweight Business Intelligence with Ruby, Rails and MongoDB**](Friday/4_lightweight_business_intelligence_with_ruby_rails_and_mongodb.md) by [Corey Ehmke (@bantik)](http://www.twitter.com/bantik) at Apartments.com
 5. [**Big Data Modeling with Cassandra**](Friday/5_big_data_modeling_with_cassandra) by [Mat Brown (@0utoftime)](http://www.twitter.com/0utoftime)
-6.  [**Lightning Talks: Day 2**](6_lightning_talks_day_2) by **Various**
+6.  [**Lightning Talks: Day 2**](Friday/6_lightning_talks_day_2) by **Various**
+7.  [**Git & Github Secrets**](Friday/7_git_&_github_secrets.md) by [Zach Holman (@holman)](http://www.twitter.com/holman)
