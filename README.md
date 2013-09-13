@@ -28,3 +28,6 @@ Notes and slides from Windy City Rails, September 12-13th 2013 in Chicago, IL
 5. [**Big Data Modeling with Cassandra**](Friday/5_big_data_modeling_with_cassandra) by [Mat Brown (@0utoftime)](http://www.twitter.com/0utoftime)
 6.  [**Lightning Talks: Day 2**](Friday/6_lightning_talks_day_2) by **Various**
 7.  [**Git & Github Secrets**](Friday/7_git_&_github_secrets.md) by [Zach Holman (@holman)](http://www.twitter.com/holman)
+8.  [**The Learn to Code Movement**](Friday/8_the_learn_to_code_movement.md) by [Neal Sales-Griffin @nealsales](http://www.twitter.com/nealsales) at The Starter League
+9.  [**Minitest Insights, No Pony**](Friday/9_minitest_insights_no_pony.md) by [Ryan Davis (@the_zenspider)](http://www.twitter.com/the_zenspider)
+10. [**One Morning, You Wake Up and Find Yourself(sort of) in Charge**](Friday/10_one_morning_you_wake_up_and_find_yourself_sort_of_in_charge.md) by [David Demaree (@ddemaree)](http://www.twitter.com/ddemaree)
