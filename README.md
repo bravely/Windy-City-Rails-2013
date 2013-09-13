@@ -17,3 +17,9 @@ Notes and slides from Windy City Rails, September 12-13th 2013 in Chicago, IL
 7. [**Developers & Depression**](Thursday/7_developers_and_depression) by [Greg Baugues (@greggyb)](http://www.twitter.com/greggyb)
 8. [**Keeping Your Massive Rails App from Turning into a Shit Show**](8_keeping_your_massive_rails_app_from_turning_into_a_shit_show.md) by [Benjamin Smith (@benjamin_smith)](http://www.twitter.com/benjamin_smith)
 9. [**Hardware and Rails**](Thursday/9_hardware_and_rails.md) by [Mitch Lloyd (@too_mitch)](http://www.twitter.com/too_mitch) at Gaslight
+
+
+### Friday
+##### Morning
+1. [**Rails vs. Object-Oriented Programming**](Friday/1_rails_vs_object-oriented_programming.md) by [Noel Rappin (@noelrap)](http://www.twitter.com/noelrap)
+2. [**Seeing the Big Picture: Quick and Dirty Data Visualization with Ruby**](Friday/2_seeing_the_big_picture_quick_and_dirty_data_visualization_with_ruby.md) by [Aja Hammerly (@thagomizer_rb)](http://www.twitter.com/thagomizer_rb)
